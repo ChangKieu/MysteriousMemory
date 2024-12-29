@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6a2baae3fdacde42b3c524ca0d71a9d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156903
+  packageName: Classical Guitar
+  packageVersion: 1.0
+  assetPath: Assets/Classical Guitar/Prefabs/Guitar_Classic.prefab
+  uploadId: 336814

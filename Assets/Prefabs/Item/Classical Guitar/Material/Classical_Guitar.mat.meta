@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ace3417078e64c447bffc3bc458a2db8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156903
+  packageName: Classical Guitar
+  packageVersion: 1.0
+  assetPath: Assets/Classical Guitar/Material/Classical_Guitar.mat
+  uploadId: 336814
